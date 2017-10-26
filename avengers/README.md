@@ -27,3 +27,4 @@ Header | Definition
 `Death5` | Yes if the Avenger died a fifth time after their fourth revival, No if they did not, blank if not applicable
 `Return5` | Yes if the Avenger returned from their fifth death, No if they did not, blank if not applicable
 `Notes` | Descriptions of deaths and resurrections. 
+`Thor`   | This is the God of Thunder and prince of Asgard.
